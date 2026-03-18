@@ -92,7 +92,7 @@ If you find this paper useful for your research, please consider citing us:
 @article{j2025AIVI,
   title={User Engagement with Human vs. AI Influencers: A Social Media Behavior Analysis},
   author={},
-  journal={Computers in Human Behavior},
+  journal={},
   volume={},
   number={},
   pages={},
