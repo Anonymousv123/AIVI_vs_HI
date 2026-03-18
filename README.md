@@ -90,7 +90,8 @@ Please send any questions you might have about the code and/or the algorithm to 
 If you find this paper useful for your research, please consider citing us:
 ```
 @article{j2025AIVI,
-  title={User Engagement with Human vs. AI Influencers: A Social Media Behavior Analysis},
+  title={Asymmetries in Information Processing: A Computational Analysis of User Responses to AI
+Virtual and Human Influencers},
   author={},
   journal={},
   volume={},
